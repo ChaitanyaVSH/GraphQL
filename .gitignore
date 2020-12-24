@@ -1,3 +1,4 @@
 #touch .gitignore && echo "node_modules/" >> .gitignore && git rm -r --cached node_modules ; git status
 #https://stackoverflow.com/questions/29820791/git-ignore-node-modules-folder-everywhere
 node_modules/
+.DS_Store
